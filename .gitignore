@@ -6,7 +6,7 @@
 *.user
 *.userosscache
 *.sln.docstates
-UserInterfaceUnix.cpp
+Tetris/UserInterfaceUnix.cpp
 
 
 # User-specific files (MonoDevelop/Xamarin Studio)
