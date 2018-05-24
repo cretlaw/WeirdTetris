@@ -18,6 +18,19 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\..\..\Desktop\finalgamecode\final-game-code\Game.h" />
+    <ClInclude Include="..\..\..\..\..\Desktop\finalgamecode\final-game-code\Piece.h" />
+    <ClInclude Include="..\..\..\..\..\Desktop\finalgamecode\final-game-code\UserInterface.h" />
+    <ClInclude Include="..\..\..\..\..\Desktop\finalgamecode\final-game-code\Well.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\..\..\Desktop\finalgamecode\final-game-code\chetyris.cpp" />
+    <ClCompile Include="..\..\..\..\..\Desktop\finalgamecode\final-game-code\GAME.CPP" />
+    <ClCompile Include="..\..\..\..\..\Desktop\finalgamecode\final-game-code\Piece.cpp" />
+    <ClCompile Include="..\..\..\..\..\Desktop\finalgamecode\final-game-code\UserInterfaceWindows.cpp" />
+    <ClCompile Include="..\..\..\..\..\Desktop\finalgamecode\final-game-code\Well.cpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
     <ProjectGuid>{EFD18CFC-2546-4640-8277-04CD1A82DF8C}</ProjectGuid>
@@ -114,19 +127,6 @@
       <OptimizeReferences>true</OptimizeReferences>
     </Link>
   </ItemDefinitionGroup>
-  <ItemGroup>
-    <ClInclude Include="Game.h" />
-    <ClInclude Include="Piece.h" />
-    <ClInclude Include="UserInterface.h" />
-    <ClInclude Include="Well.h" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="chetyris.cpp" />
-    <ClCompile Include="Game.cpp" />
-    <ClCompile Include="Piece.cpp" />
-    <ClCompile Include="UserInterfaceWindows.cpp" />
-    <ClCompile Include="Well.cpp" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

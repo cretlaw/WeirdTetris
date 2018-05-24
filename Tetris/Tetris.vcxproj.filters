@@ -15,34 +15,34 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Game.h">
+    <ClInclude Include="..\..\..\..\..\Desktop\finalgamecode\final-game-code\Game.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Piece.h">
+    <ClInclude Include="..\..\..\..\..\Desktop\finalgamecode\final-game-code\Piece.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="UserInterface.h">
+    <ClInclude Include="..\..\..\..\..\Desktop\finalgamecode\final-game-code\UserInterface.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Well.h">
+    <ClInclude Include="..\..\..\..\..\Desktop\finalgamecode\final-game-code\Well.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="chetyris.cpp">
-      <Filter>Resource Files</Filter>
+    <ClCompile Include="..\..\..\..\..\Desktop\finalgamecode\final-game-code\chetyris.cpp">
+      <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Piece.cpp">
-      <Filter>Resource Files</Filter>
+    <ClCompile Include="..\..\..\..\..\Desktop\finalgamecode\final-game-code\GAME.CPP">
+      <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Game.cpp">
-      <Filter>Resource Files</Filter>
+    <ClCompile Include="..\..\..\..\..\Desktop\finalgamecode\final-game-code\Piece.cpp">
+      <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="UserInterfaceWindows.cpp">
-      <Filter>Resource Files</Filter>
+    <ClCompile Include="..\..\..\..\..\Desktop\finalgamecode\final-game-code\UserInterfaceWindows.cpp">
+      <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Well.cpp">
-      <Filter>Resource Files</Filter>
+    <ClCompile Include="..\..\..\..\..\Desktop\finalgamecode\final-game-code\Well.cpp">
+      <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
