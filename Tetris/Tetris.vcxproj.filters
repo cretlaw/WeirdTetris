@@ -15,33 +15,33 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\..\..\Desktop\finalgamecode\final-game-code\Game.h">
+    <ClInclude Include="..\..\..\..\..\Desktop\game\game\Game.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\..\Desktop\finalgamecode\final-game-code\Piece.h">
+    <ClInclude Include="..\..\..\..\..\Desktop\game\game\Piece.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\..\Desktop\finalgamecode\final-game-code\UserInterface.h">
+    <ClInclude Include="..\..\..\..\..\Desktop\game\game\UserInterface.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\..\Desktop\finalgamecode\final-game-code\Well.h">
+    <ClInclude Include="..\..\..\..\..\Desktop\game\game\Well.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\..\Desktop\finalgamecode\final-game-code\chetyris.cpp">
+    <ClCompile Include="..\..\..\..\..\Desktop\game\game\chetyris.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\..\Desktop\finalgamecode\final-game-code\GAME.CPP">
+    <ClCompile Include="..\..\..\..\..\Desktop\game\game\Game.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\..\Desktop\finalgamecode\final-game-code\Piece.cpp">
+    <ClCompile Include="..\..\..\..\..\Desktop\game\game\Piece.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\..\Desktop\finalgamecode\final-game-code\UserInterfaceWindows.cpp">
+    <ClCompile Include="..\..\..\..\..\Desktop\game\game\UserInterfaceWindows.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\..\Desktop\finalgamecode\final-game-code\Well.cpp">
+    <ClCompile Include="..\..\..\..\..\Desktop\game\game\Well.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

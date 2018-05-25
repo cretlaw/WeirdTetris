@@ -19,17 +19,17 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\..\..\Desktop\finalgamecode\final-game-code\Game.h" />
-    <ClInclude Include="..\..\..\..\..\Desktop\finalgamecode\final-game-code\Piece.h" />
-    <ClInclude Include="..\..\..\..\..\Desktop\finalgamecode\final-game-code\UserInterface.h" />
-    <ClInclude Include="..\..\..\..\..\Desktop\finalgamecode\final-game-code\Well.h" />
+    <ClInclude Include="..\..\..\..\..\Desktop\game\game\Game.h" />
+    <ClInclude Include="..\..\..\..\..\Desktop\game\game\Piece.h" />
+    <ClInclude Include="..\..\..\..\..\Desktop\game\game\UserInterface.h" />
+    <ClInclude Include="..\..\..\..\..\Desktop\game\game\Well.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\..\Desktop\finalgamecode\final-game-code\chetyris.cpp" />
-    <ClCompile Include="..\..\..\..\..\Desktop\finalgamecode\final-game-code\GAME.CPP" />
-    <ClCompile Include="..\..\..\..\..\Desktop\finalgamecode\final-game-code\Piece.cpp" />
-    <ClCompile Include="..\..\..\..\..\Desktop\finalgamecode\final-game-code\UserInterfaceWindows.cpp" />
-    <ClCompile Include="..\..\..\..\..\Desktop\finalgamecode\final-game-code\Well.cpp" />
+    <ClCompile Include="..\..\..\..\..\Desktop\game\game\chetyris.cpp" />
+    <ClCompile Include="..\..\..\..\..\Desktop\game\game\Game.cpp" />
+    <ClCompile Include="..\..\..\..\..\Desktop\game\game\Piece.cpp" />
+    <ClCompile Include="..\..\..\..\..\Desktop\game\game\UserInterfaceWindows.cpp" />
+    <ClCompile Include="..\..\..\..\..\Desktop\game\game\Well.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
