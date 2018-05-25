@@ -2,6 +2,7 @@
 #include <windows.h>
 #include <conio.h>
 #include <string>
+
 using namespace std;
 
 ///////////////////////////////////////////////////////////
@@ -173,8 +174,8 @@ bool getCharIfAny(char& ch)
 void waitForEnter()
 {
     int ch;
-    while (ch = _getch(), ch != '\n'  &&  ch != '\r')
-        ;
+	while (ch = _getch(), ch != '\n'  &&  ch != '\r')
+		;
 }
 
 void discardPendingKeys()
